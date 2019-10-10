@@ -83,14 +83,25 @@ def keyCont():
 
     destroy()
 
-keyCont()
 
 
 
+# destroy()
+# setup()
+
+# while True:
+#     for i in range(5):
+#         moveDown()
+#     for i in range(5):
+#         moveCW()
+#     for i in range(5):
+#         moveUp()
+#     for i in range(5):
+#         moveCCW()
+    
 
 
-
-
+# destroy()
 
 
 
